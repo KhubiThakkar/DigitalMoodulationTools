@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['x_2092',['x',['../struct_r_g_b_a_bitmap_image.html#a0336a2f8da1b7a775215fc24c43ae092',1,'RGBABitmapImage']]],
+  ['x1_2093',['x1',['../struct_rectangle.html#ac75b803b570527306e1e744bfb7a604f',1,'Rectangle']]],
+  ['x2_2094',['x2',['../struct_rectangle.html#adcf04f5f1964d18b332643939561da0d',1,'Rectangle']]],
+  ['xaxisauto_2095',['xAxisAuto',['../struct_scatter_plot_settings.html#a7ac2df430776c21fa8bbd1639dc675e0',1,'ScatterPlotSettings']]],
+  ['xaxisbottom_2096',['xAxisBottom',['../struct_scatter_plot_settings.html#a27dc5fc28c0794fb66cf46a7f4318cd1',1,'ScatterPlotSettings']]],
+  ['xaxistop_2097',['xAxisTop',['../struct_scatter_plot_settings.html#aaacf8f91f835575568a29fe54b816876',1,'ScatterPlotSettings']]],
+  ['xlabel_2098',['xLabel',['../struct_scatter_plot_settings.html#ad3c0720ea08fe540a7e3b77c2afb73d6',1,'ScatterPlotSettings']]],
+  ['xlabellength_2099',['xLabelLength',['../struct_scatter_plot_settings.html#af00f8c12772c9a79346f139d22340424',1,'ScatterPlotSettings']]],
+  ['xlabels_2100',['xLabels',['../struct_bar_plot_settings.html#a1ec5d71a00f5c32173e2f723398d21de',1,'BarPlotSettings']]],
+  ['xlabelslength_2101',['xLabelsLength',['../struct_bar_plot_settings.html#aedf9727d293bbe6d9363b5592317c86c',1,'BarPlotSettings']]],
+  ['xlength_2102',['xLength',['../struct_r_g_b_a_bitmap_image.html#a1ba6056c7e598ac40b4542c3b1614315',1,'RGBABitmapImage']]],
+  ['xmax_2103',['xMax',['../struct_scatter_plot_settings.html#a1bb980dbe87946bc22572d65feeede5c',1,'ScatterPlotSettings']]],
+  ['xmin_2104',['xMin',['../struct_scatter_plot_settings.html#a0da3ee9d9cd0abef10c10e090a94f069',1,'ScatterPlotSettings']]],
+  ['xpadding_2105',['xPadding',['../struct_scatter_plot_settings.html#a2bbcd0f23d12133ac66507483b6379b8',1,'ScatterPlotSettings::xPadding()'],['../struct_bar_plot_settings.html#a2bbcd0f23d12133ac66507483b6379b8',1,'BarPlotSettings::xPadding()']]],
+  ['xs_2106',['xs',['../struct_scatter_plot_series.html#aa0411e2b449b3c4f069d41c603bc3b90',1,'ScatterPlotSeries']]],
+  ['xslength_2107',['xsLength',['../struct_scatter_plot_series.html#aabfa6afaec2d2fd12ad727277f45f0a7',1,'ScatterPlotSeries']]]
+];

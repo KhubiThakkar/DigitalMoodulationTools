@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['tan_1899',['Tan',['../pb_plots_8h.html#a5f377b4bdf0f0b944ee141a8f9654990',1,'Tan(double x):&#160;pbPlots.c'],['../pb_plots_8c.html#a5f377b4bdf0f0b944ee141a8f9654990',1,'Tan(double x):&#160;pbPlots.c']]],
+  ['tanh_1900',['Tanh',['../pb_plots_8h.html#a942475afb5772631d1cba39c5661ec7e',1,'Tanh(double x):&#160;pbPlots.c'],['../pb_plots_8c.html#a942475afb5772631d1cba39c5661ec7e',1,'Tanh(double x):&#160;pbPlots.c']]],
+  ['teardown_1901',['tearDown',['../test___modulation_techniques_8c.html#ab804e0f66def63262c1d6b4e3d2a2bd7',1,'tearDown():&#160;test_ModulationTechniques.c'],['../unity_8h.html#a9909011e5fea0c018842eec4d93d0662',1,'tearDown(void):&#160;test_ModulationTechniques.c']]],
+  ['test_1902',['test',['../pb_plots_8h.html#a8f1c83d0a31af54b7176583e4d0c53e5',1,'test():&#160;pbPlots.c'],['../pb_plots_8c.html#a8f1c83d0a31af54b7176583e4d0c53e5',1,'test():&#160;pbPlots.c']]],
+  ['test_5fbuffer_1903',['test_Buffer',['../test___modulation_techniques_8c.html#a59a8d50e5a88d56f53e1436caed7eeb1',1,'test_ModulationTechniques.c']]],
+  ['test_5fdifferential_1904',['test_differential',['../test___modulation_techniques_8c.html#a33b0023915b3faeddb2aae710b639db6',1,'test_ModulationTechniques.c']]],
+  ['test_5fmanchester_1905',['test_manchester',['../test___modulation_techniques_8c.html#a8f575e43fd1b945a899157fdbc50cfe6',1,'test_ModulationTechniques.c']]],
+  ['test_5fnrzi_1906',['test_NRZI',['../test___modulation_techniques_8c.html#a7e73f7a61dd57efa7a7bde0cc5dd9122',1,'test_ModulationTechniques.c']]],
+  ['test_5fnrzl_1907',['test_NRZL',['../test___modulation_techniques_8c.html#addc115b13d8e742b8bd940a4c45c450f',1,'test_ModulationTechniques.c']]],
+  ['test_5fsinehighamp_1908',['test_SineHighAmp',['../test___modulation_techniques_8c.html#a59097c1a54fc9a3f37e2671838d530de',1,'test_ModulationTechniques.c']]],
+  ['test_5fsinehighfreq_1909',['test_SineHighFreq',['../test___modulation_techniques_8c.html#afa739358d579d4cac86aaf4f66b237c3',1,'test_ModulationTechniques.c']]],
+  ['test_5fsinelowamp_1910',['test_SineLowAmp',['../test___modulation_techniques_8c.html#a8e33cacbc9b66a466d40169083c7d06a',1,'test_ModulationTechniques.c']]],
+  ['test_5fsinelowfreq_1911',['test_SineLowFreq',['../test___modulation_techniques_8c.html#a51a08a5ea9e324e9617bc160e25532d3',1,'test_ModulationTechniques.c']]],
+  ['test_5fsinenegative_1912',['test_SineNegative',['../test___modulation_techniques_8c.html#a16af97a866370ad43deb4f3053a630ac',1,'test_ModulationTechniques.c']]],
+  ['test_5fsinepositive_1913',['test_SinePositive',['../test___modulation_techniques_8c.html#a0a111bb41e06a1f667c5399cc1098dbb',1,'test_ModulationTechniques.c']]],
+  ['test_5fzeropadding_1914',['test_zeropadding',['../test___modulation_techniques_8c.html#aba64a16cf869d193713752d823322a13',1,'test_ModulationTechniques.c']]],
+  ['testmapping_1915',['TestMapping',['../pb_plots_8h.html#ad62b407c050f5315d474fbd1f16cb735',1,'TestMapping(NumberReference *failures):&#160;pbPlots.c'],['../pb_plots_8c.html#ad62b407c050f5315d474fbd1f16cb735',1,'TestMapping(NumberReference *failures):&#160;pbPlots.c']]],
+  ['testmapping2_1916',['TestMapping2',['../pb_plots_8h.html#adc803b6209d529b3b0f6a4edfbb0e778',1,'TestMapping2(NumberReference *failures):&#160;pbPlots.c'],['../pb_plots_8c.html#adc803b6209d529b3b0f6a4edfbb0e778',1,'TestMapping2(NumberReference *failures):&#160;pbPlots.c']]],
+  ['tolowercase_1917',['ToLowerCase',['../pb_plots_8h.html#af7eeba8bde7648f911eb73936b3a9b76',1,'ToLowerCase(wchar_t *string, size_t stringLength):&#160;pbPlots.c'],['../pb_plots_8c.html#af7eeba8bde7648f911eb73936b3a9b76',1,'ToLowerCase(wchar_t *string, size_t stringLength):&#160;pbPlots.c']]],
+  ['touppercase_1918',['ToUpperCase',['../pb_plots_8h.html#a77864670cd54b6773aaa46c3cfd77ea2',1,'ToUpperCase(wchar_t *string, size_t stringLength):&#160;pbPlots.c'],['../pb_plots_8c.html#a77864670cd54b6773aaa46c3cfd77ea2',1,'ToUpperCase(wchar_t *string, size_t stringLength):&#160;pbPlots.c']]],
+  ['trim_1919',['Trim',['../pb_plots_8h.html#a29455a4a95a493d4d746be11103fb9ed',1,'Trim(size_t *returnArrayLength, wchar_t *string, size_t stringLength):&#160;pbPlots.c'],['../pb_plots_8c.html#a29455a4a95a493d4d746be11103fb9ed',1,'Trim(size_t *returnArrayLength, wchar_t *string, size_t stringLength):&#160;pbPlots.c']]],
+  ['truncate_1920',['Truncate',['../pb_plots_8h.html#a294734a38fced1135438f16662fbcc9c',1,'Truncate(double x):&#160;pbPlots.c'],['../pb_plots_8c.html#a294734a38fced1135438f16662fbcc9c',1,'Truncate(double x):&#160;pbPlots.c']]]
+];

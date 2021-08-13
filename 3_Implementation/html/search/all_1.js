@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['b_78',['b',['../struct_r_g_b_a.html#a1510a66dacf9cf3586de5fc89ae2a073',1,'RGBA']]],
+  ['bankersround_79',['BankersRound',['../pb_plots_8h.html#ad674ada879591e02d23a1c60b242466e',1,'BankersRound(double x):&#160;pbPlots.c'],['../pb_plots_8c.html#ad674ada879591e02d23a1c60b242466e',1,'BankersRound(double x):&#160;pbPlots.c']]],
+  ['barborder_80',['barBorder',['../struct_bar_plot_settings.html#aa5648d8b1cc6fb75c7974ae2f155d41c',1,'BarPlotSettings']]],
+  ['barplotseries_81',['BarPlotSeries',['../struct_bar_plot_series.html',1,'BarPlotSeries'],['../pb_plots_8h.html#aa98317f262f38a40ecfff0c79942ba5f',1,'BarPlotSeries():&#160;pbPlots.h']]],
+  ['barplotseries_82',['barPlotSeries',['../struct_bar_plot_settings.html#a0ff320d10f0fac9972c1881f043466ec',1,'BarPlotSettings']]],
+  ['barplotserieslength_83',['barPlotSeriesLength',['../struct_bar_plot_settings.html#a11a2056d4d3324efac5ee8f7c1761611',1,'BarPlotSettings']]],
+  ['barplotsettings_84',['BarPlotSettings',['../struct_bar_plot_settings.html',1,'BarPlotSettings'],['../pb_plots_8h.html#a896c77e47773a9d5489d04cf0f17e88e',1,'BarPlotSettings():&#160;pbPlots.h']]],
+  ['barplotsettingsisvalid_85',['BarPlotSettingsIsValid',['../pb_plots_8h.html#a7ed1927504397cf752c90a095041bbca',1,'BarPlotSettingsIsValid(BarPlotSettings *settings):&#160;pbPlots.c'],['../pb_plots_8c.html#a7ed1927504397cf752c90a095041bbca',1,'BarPlotSettingsIsValid(BarPlotSettings *settings):&#160;pbPlots.c']]],
+  ['barseparation_86',['barSeparation',['../struct_bar_plot_settings.html#a004f2be66e099ae9c0b032d106bf8d6e',1,'BarPlotSettings']]],
+  ['bernouillinumber_87',['BernouilliNumber',['../pb_plots_8h.html#a3537b9c401fa69fede6863b25b7dd55f',1,'BernouilliNumber(double n):&#160;pbPlots.c'],['../pb_plots_8c.html#a3537b9c401fa69fede6863b25b7dd55f',1,'BernouilliNumber(double n):&#160;pbPlots.c']]],
+  ['beta_88',['Beta',['../pb_plots_8h.html#a6bba5f2d0a5859ca36f6f49f97b34171',1,'Beta(double x, double y):&#160;pbPlots.c'],['../pb_plots_8c.html#a6bba5f2d0a5859ca36f6f49f97b34171',1,'Beta(double x, double y):&#160;pbPlots.c']]],
+  ['bin_5fverify_89',['bin_verify',['../program__main_8c.html#a237147a550f6f0ab0f91f7e78cacda7c',1,'program_main.c']]],
+  ['binaryinput_90',['binaryinput',['../test___modulation_techniques_8c.html#a628ebb2746e437efbeff143704e66641',1,'test_ModulationTechniques.c']]],
+  ['bitdepth_91',['BitDepth',['../struct_i_h_d_r.html#a8a7e769962b8d4fd4d10047ee24d1a64',1,'IHDR']]],
+  ['bitextract_92',['BitExtract',['../pb_plots_8h.html#a39336e3cfc40511e4a6684cb5da26909',1,'BitExtract(double b, double fromInc, double toInc):&#160;pbPlots.c'],['../pb_plots_8c.html#a39336e3cfc40511e4a6684cb5da26909',1,'BitExtract(double b, double fromInc, double toInc):&#160;pbPlots.c']]],
+  ['blur_93',['Blur',['../pb_plots_8h.html#a81385cf2ec89f9d259a6eddbab85dac2',1,'Blur(RGBABitmapImage *src, double pixels):&#160;pbPlots.c'],['../pb_plots_8c.html#a81385cf2ec89f9d259a6eddbab85dac2',1,'Blur(RGBABitmapImage *src, double pixels):&#160;pbPlots.c']]],
+  ['booleanarray_94',['booleanArray',['../struct_boolean_array_reference.html#aaf8ea9886bcf9c8d3dad4149582f18fe',1,'BooleanArrayReference']]],
+  ['booleanarraylength_95',['booleanArrayLength',['../struct_boolean_array_reference.html#ac6f3962f1b9c363ddc186092ab0a6d13',1,'BooleanArrayReference']]],
+  ['booleanarrayreference_96',['BooleanArrayReference',['../struct_boolean_array_reference.html',1,'BooleanArrayReference'],['../pb_plots_8h.html#a6d39fbada96e4aca547a88c71c96093a',1,'BooleanArrayReference():&#160;pbPlots.h']]],
+  ['booleanreference_97',['BooleanReference',['../struct_boolean_reference.html',1,'BooleanReference'],['../pb_plots_8h.html#a559acbec06856b50adfd5ef32fb520d7',1,'BooleanReference():&#160;pbPlots.h']]],
+  ['booleanvalue_98',['booleanValue',['../struct_boolean_reference.html#a81293e476df7dc2de5d045ef053447e0',1,'BooleanReference']]],
+  ['bresenhamscircledrawingalgorithm_99',['BresenhamsCircleDrawingAlgorithm',['../pb_plots_8h.html#a241aeeaeff2cf87f6461d7714dfba14b',1,'BresenhamsCircleDrawingAlgorithm(RGBABitmapImage *canvas, double xCenter, double yCenter, double radius, RGBA *color):&#160;pbPlots.c'],['../pb_plots_8c.html#a241aeeaeff2cf87f6461d7714dfba14b',1,'BresenhamsCircleDrawingAlgorithm(RGBABitmapImage *canvas, double xCenter, double yCenter, double radius, RGBA *color):&#160;pbPlots.c']]],
+  ['buffer_100',['buffer',['../dhyey_8h.html#a13d8613c06c38a3132e8becb4d148383',1,'buffer(char *, int):&#160;dhyey.h'],['../buffer_8c.html#a7ccec04fec69528b469b4ad947c4a4dc',1,'buffer(char binaryvalue[], int type):&#160;buffer.c']]],
+  ['buffer_2ec_101',['buffer.c',['../buffer_8c.html',1,'']]],
+  ['bytearraytodoublearray_102',['ByteArrayToDoubleArray',['../support_lib_8h.html#a26c357a674c740218989978f69fbe70f',1,'ByteArrayToDoubleArray(unsigned char *data, size_t length):&#160;supportLib.c'],['../support_lib_8c.html#a26c357a674c740218989978f69fbe70f',1,'ByteArrayToDoubleArray(unsigned char *data, size_t length):&#160;supportLib.c']]]
+];

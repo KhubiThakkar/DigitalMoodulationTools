@@ -1,0 +1,30 @@
+# TEST PLAN:
+
+## Table: High level test plan
+
+| **Test ID** | **Description**| **Exp IN** | **Exp OUT** | **Actual Out** | **Means of Test** | **Type Of Test**  |    
+|-------------|--------------------|------------|-------------|----------------|-------------|---
+|  H_01       |Display should work| --- |[display](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/mainScreen.png) | [OPdisp](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/mainScreen.png)  | Tester| Requirement Based |
+|  H_02       |Waveforms should turn up|--- | [waveform](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/ASKDisplay.png) | [Opwaveform](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/ASKDisplay.png)  | Tester|Scenario Based |
+|  H_03       |Input Interface| --- |[interfacedisplay](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/inputinterface.png) | [OPintdisp](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/inputinterface.png)  | Tester| Requirement Based |
+|  H_04       |Access Database| Integer(1-5)| [database](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/Database.png) | [Opdatabase](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/Database.png)  | Tester|Scenario Based|
+
+## Table: Low level test plan
+
+| **Test ID** | **Description** | **Exp I/P** | **Exp O/P** | **Actual Out** | **Means of Test** |
+|-------|-------------------------------|------------|-------------|----------------|------------------| 
+|  L_01       | ASK | ```Enter 8 bit binary number: 10001101``` | [ASK OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/ASKDisplay.png) | [ASK OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/ASKDisplay.png) | Tester |  |  
+|  L_02       | FSK | ```Enter 8 bit binary number: 10101011``` | [FSK OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/FSKDisplay.png) | [FSK OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/FSKDisplay.png) | Tester |  |
+|  L_03       | PSK | ```Enter 8 bit binary number: 11101001``` | [PSK OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/PSKDisplay.png) | [PSK OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/PSKDisplay.png) | Tester |  |
+|  L_04       | QAM | ```Enter 8 bit binary number: 11101001```      |[QAM OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/QAM.png)          |[QAMP OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/QAM.png)  | Tester |  |
+|  L_05      | NRZ-L | ```Enter 8 bit binary number: 11011110``` | [NRZL OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input1NRZL.png) | [NRZL OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input1NRZL.png) | Tester|  |
+|  L_06      | NRZ-L | ```Enter 8 bit binary number: 10010011``` | [NRZL OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input2NRZL.png) | [NRZL OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input2NRZL.png) |Tester|  |
+|  L_07      | NRZ-L | ```Enter 8 bit binary number: 11001``` | [NRZL OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input3NRZL.png) | [NRZL OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input3NRZL.png) |Tester |  |
+|  L_08      | NRZ-I | ```Enter 8 bit binary number: 11011110``` | [NRZI OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input1NRZI.png) | [NRZI OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input1NRZI.png) | Tester |  |
+|  L_09      | NRZ-I | ```Enter 8 bit binary number: 10010011``` | [NRZI OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input2NRZI.png) | [NRZI OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input2NRZI.png) | Tester |  |
+|  L_10      | NRZ-I | ```Enter 8 bit binary number: 11001``` | [NRZI OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input3NRZI.png) | [NRZI OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input3NRZI.png) |  Tester|  |
+|  L_11      | RZ | ```Enter 8 bit binary number: 11011110``` | [RZ OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input1RZ.png) | [RZ OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input1RZ.png) |Tester| |
+|  L_12      | RZ | ```Enter 8 bit binary number: 10010011``` | [RZ OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input2RZ.png) | [RZ OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input2RZ.png) | Tester | |
+|  L_13      | RZ | ```Enter 8 bit binary number: 11001``` | [RZ OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input3RZ.png) | [RZ OP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/main/6_ImagesandVideo/input3RZ.png) |  Tester| |
+|  L_14      | Biphase Manchester |```Enter 8 bit binary number: 11011110``` | [Man EOP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/25ea405ce28fce9d6aef2eb9ef17b5c3fcbc4580/6_ImagesandVideo/manchester%20ip1.jpeg)|[Man AOP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/25ea405ce28fce9d6aef2eb9ef17b5c3fcbc4580/6_ImagesandVideo/manchester%20op1.jpeg) | Tester |    |
+|  L_15      | Differential Manchester |```Enter 8 bit binary number: 11011110``` | [Diff EOP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/25ea405ce28fce9d6aef2eb9ef17b5c3fcbc4580/6_ImagesandVideo/differential%20ip1.jpeg)|[Diff AOP](https://github.com/GENESIS2021Q1/sdlc2-team-15/blob/25ea405ce28fce9d6aef2eb9ef17b5c3fcbc4580/6_ImagesandVideo/differential%20op1.jpeg) | Tester | |
